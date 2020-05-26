@@ -1,0 +1,7 @@
+organization=space-game-web-lopesalex
+projectKey=alexlopes_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8217
+dashboardUrl=https://sonarcloud.io/dashboard?id=alexlopes_mslearn-tailspin-spacegame-web
+ceTaskId=AXJNEjqbGxVpHYWgM5AH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJNEjqbGxVpHYWgM5AH
